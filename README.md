@@ -5,6 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 >For more details, read:
 > [Angular 7 File Upload with Progress Bar Tutorial and Example](https://www.techiediaries.com/angular-file-upload-progress-bar)
 
+In this tutorial, we'll learn how to upload files in Angular 7. For the backend we'll be using Nest.js
+
+We'll see how to use `HttpClient` to send POST request with multipart form data which is used for file uploading. We'll also see how to use reactive forms.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
