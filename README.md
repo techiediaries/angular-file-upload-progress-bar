@@ -1,6 +1,9 @@
-# Frontend
+# Angular 7 File Upload and Porgress Bar Example 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+
+>For more details, read:
+> [Angular 7 File Upload with Progress Bar Tutorial and Example](https://www.techiediaries.com/angular-file-upload-progress-bar)
 
 ## Development server
 
